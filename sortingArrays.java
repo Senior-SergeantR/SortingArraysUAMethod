@@ -1,6 +1,7 @@
 package SortingNumricArray;
 
 import java.util.Arrays;
+import java.util.Collections;
 
 public class sortingArrays {
 
@@ -17,6 +18,7 @@ public class sortingArrays {
         for (int i: array) {
             System.out.println(i);
         }
+
 
         String[] names ={
                 "Irene", "Wendy","Felix","Abdi","Kauthar","Melany",
